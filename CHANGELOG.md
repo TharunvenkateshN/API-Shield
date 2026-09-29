@@ -1,7 +1,5 @@
-# Changelog
-
-Version: 0.2.0
-
+## changelog
+Version: 1.0.0-rc1
 ## Unreleased
 - Initial changelog created
 - Roadmap section added to README
