@@ -20,3 +20,9 @@ Database: SQLite / PostgreSQL
 (Setup instructions coming soon...)
 
 Status: In development
+
+## Roadmap
+
+- Add authentication bypass test
+- Add IDOR detection test
+- Export results as JSON
